@@ -3,7 +3,7 @@ Implemement GraphQL using laravel
 
 ## How to run this project?
 
-1. Clone this repo `git clone https://github.com/widada/lara-bookstore.git`
+1. Clone this repo `https://github.com/yemiwebby/lara-bookstore.git`
 2. `cd lara-bookstore && composer install`
 3. `cp .env.example .env`
 4. Set your database
